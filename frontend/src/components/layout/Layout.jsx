@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom'
-import Sidebar from './Sidebar'
+import Sidebar from './Sidebar.jsx'
 
 const Layout = () => (
   <div className="flex min-h-screen bg-gray-50">
